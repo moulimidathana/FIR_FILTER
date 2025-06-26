@@ -15,8 +15,7 @@
 # A FIR (Finite Impulse Response) filter processes a digital input signal to remove unwanted frequency components or shape the signal. It does this by convolving the input with a fixed set of coefficients.
 The output of an FIR filter at time  is a weighted sum of the current and past input values
 
-y[n] = \sum_{k=0}^{N-1} h[k] \cdot x[n-k]
-
+for a 4 tapped filter output is y[n] = h[0]x[n] + h[1]x[n-1] + h[2]x[n-2]+h[3]x[n-3]
 
 
 
