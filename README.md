@@ -16,3 +16,8 @@
 #OUTPUT :
 ![FIR_FILTER_RTL_SCHEMATIC.png](https://github.com/user-attachments/assets/7de3e719-be44-4754-b6e9-6773fb1e9bd2)
 
+
+![fir_filter_wave_forms.png](https://github.com/user-attachments/assets/4257b47a-8c17-4daa-be52-c65c1dd68623)
+
+
+
