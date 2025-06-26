@@ -19,5 +19,8 @@
 
 ![fir_filter_wave_forms.png](https://github.com/user-attachments/assets/4257b47a-8c17-4daa-be52-c65c1dd68623)
 
+![FIR_FILTER_TCL_CONSOLE_OUTPUT.png](https://github.com/user-attachments/assets/b53617ea-c527-4c6a-a2f3-c454d38a9dee)
+
+
 
 
