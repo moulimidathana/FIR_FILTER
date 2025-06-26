@@ -12,6 +12,12 @@
 
 *MENTOR* : NEELA SANTOSH
 
+#A FIR (Finite Impulse Response) filter is a digital filter that outputs a weighted sum of current and past input values, without using feedback, making it always stable. Its output is given by the formula:
+
+y[n] = \sum_{k=0}^{N-1} h[k] \cdot x[n-k]
+
+
+
 
 #OUTPUT :
 ![FIR_FILTER_RTL_SCHEMATIC.png](https://github.com/user-attachments/assets/7de3e719-be44-4754-b6e9-6773fb1e9bd2)
